@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "virtualmemory": "c",
+        "string.h": "c"
+    }
+}
